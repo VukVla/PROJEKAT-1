@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605098011 source:c:\users\user\desktop\vuk programiranje\projekat - drive\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
